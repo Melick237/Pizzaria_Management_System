@@ -1,0 +1,34 @@
+= Pizzaria Management System
+
+=== ABOUT
+
+It is a pizzazia management application made with Java that
+allows to manage in a regulated and ordered way the staff,
+customers and service in a Pizzaria.
+
+image:/pizzeria.png?raw=true[Home page Image]
+
+=== INSTALLATION
+
+To install and run this project follow the following steps:
+
+. Clone this repository with the command (git clone https://github.com/Melick237/Pizzaria_Management_System.git)
+
+. Run the application (gui/de/thb/dim/pizzaProntoGUI/GUI_Main.java)
+
+=== RUN TESTS ?
+To run the Tests follow the following steps:
+
+. Link JUnit 5 on the Project
+
+. Run the test folder to run all test sequentially
+
+=== LEARN MORE
+
+To build this app , i used :
+
+. https://docs.oracle.com/en/java/javase/15/[Java SE]
+. https://docs.oracle.com/javase/tutorial/uiswing/index.html[JAVA SWING]
+. https://junit.org/junit5/docs/current/user-guide/[JUNIT]
+
+image:/pizzeria2.png?raw=true[Home page Image]
